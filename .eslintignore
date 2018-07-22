@@ -1,0 +1,3 @@
+build/*.js
+src/js/*.js
+src/assets/js/lib/*.js
